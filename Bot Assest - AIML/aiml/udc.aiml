@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<category>
+    <pattern>Hello</pattern>
+    <template>Hello user. How can I help you?</template>
+</category>
+<category>
+    <pattern>hello</pattern>
+    <template>Hello user, how can I help you?</template>
+</category>
+<category>
+    <pattern>hi</pattern>
+    <template>Hello user, how can I help you?</template>
+</category>
+<category>
+    <pattern>what is the functionality of add to contact button </pattern>
+    <template>Using add to contact button you can add , delete or view all the contact numbers that will be informed about your location details when the emergency button is clicked.</template>
+</category>
+<category>
+    <pattern>what is the functionality of emergency button </pattern>
+    <template>By pressing emergency automatically call intent will start connecting to 100. And sms intent will be used to contact all your saved contact numbers. And by long pressing scream alarm can be started.</template>
+</category>
+</aiml>
